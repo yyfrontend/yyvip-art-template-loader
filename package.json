@@ -1,6 +1,6 @@
 {
   "name": "yyvip-art-template-loader",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "yyvip-art-template loader for webpack",
   "main": "src/index.js",
   "repository": {
@@ -17,7 +17,7 @@
     "loader-utils": "^1.1.0"
   },
   "peerDependencies": {
-    "art-template": ">=4.10.0"
+    "yyvip-art-template": ">=4.10.0"
   },
   "devDependencies": {
     "file-loader": "^0.11.1",
