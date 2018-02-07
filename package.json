@@ -1,0 +1,27 @@
+{
+  "name": "yyvip-art-template-loader",
+  "version": "1.4.3",
+  "description": "yyvip-art-template loader for webpack",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyfrontend/yyvip-art-template-loader.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/yyfrontend/yyvip-art-template-loader#readme",
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "peerDependencies": {
+    "art-template": ">=4.10.0"
+  },
+  "devDependencies": {
+    "file-loader": "^0.11.1",
+    "mocha": "^3.2.0",
+    "webpack": "^2.3.3"
+  }
+}
